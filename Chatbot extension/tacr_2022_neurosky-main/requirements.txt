@@ -1,0 +1,13 @@
+cachetools==5.0.0
+certifi==2021.10.8
+future==0.18.2
+numpy==1.21.5
+pefile==2021.9.3
+py2exe==0.11.1.0
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.1
+pyqtgraph==0.12.3
+PyYAML==6.0
+wincertstore==0.2
+XlsxWriter==3.0.3

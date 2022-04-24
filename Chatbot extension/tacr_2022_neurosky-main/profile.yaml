@@ -1,0 +1,19 @@
+collected_metrics:
+- attention
+- meditation
+- blinkStrength
+- highAlpha
+- lowAlpha
+- highBeta
+- lowBeta
+- highGamma
+- lowGamma
+- delta
+- theta
+condition: '1'
+metrics_to_display:
+- attention
+- meditation
+output_dir: ../data_output/
+samples_to_plot: 20
+subject_name: neuroskydata

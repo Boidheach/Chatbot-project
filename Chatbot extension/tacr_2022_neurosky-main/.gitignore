@@ -1,0 +1,9 @@
+venv
+.idea
+/src/configuration/__pycache__
+/src/gui/__pycache__
+/src/processing/__pycache__
+/src/data/__pycache__
+/data_output
+/build
+/dist
